@@ -1,5 +1,8 @@
-<p align="left">👋 Hello my name is Gustavo!</p>
-  
+<p align="left">Hello my name is Gustavo!</p>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -9,7 +12,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/GustaDev90/GustaDev90/output/snake.svg" alt="Snake animation" />
 
-
+###
