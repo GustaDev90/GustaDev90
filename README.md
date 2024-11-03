@@ -1,9 +1,15 @@
-# Hello, my name is Gustavo
+<p align="left">👋 Hello my name is Gustavo!</p>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 
-## Technologies
+<img src="https://raw.githubusercontent.com/GustaDev90/GustaDev90/output/snake.svg" alt="Snake animation" />
 
-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/9/99/HTML5_logo_and_wordmark.svg) HTML
-- ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg) CSS
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/61/JavaScript-logo.png) JavaScript
-- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React
-- ![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg) Git
+
