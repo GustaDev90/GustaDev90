@@ -17,6 +17,8 @@
 
 </div>
 
+<h1 align="left">A frontend enthusiast passionate about crafting modern, intuitive, and accessible interfaces, constantly exploring new technologies. ☕</h1>
+
 ###
 
 
