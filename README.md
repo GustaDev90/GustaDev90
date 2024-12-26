@@ -17,7 +17,7 @@
 
 </div>
 
-<h1 align="left">A frontend enthusiast exploring new ideas and technologies. ☕</h1>
+<h1 align="left"> 👩‍💻 Front-End Software Development | Enthusiast </h1>
 
 ###
 
