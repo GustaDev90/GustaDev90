@@ -17,7 +17,7 @@
 
 </div>
 
-<h1 align="left"> 👩‍💻 Front-End Software Development | Enthusiast </h1>
+<h1 align="left"> Front-End Software Development | Enthusiast </h1>
 
 ###
 
