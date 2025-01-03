@@ -17,9 +17,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS logo" />
 </div>
-
-<h1 align="left"> Front-End Software Development | Enthusiast </h1>
-
 ###
 
 
