@@ -18,9 +18,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
 </div>
 
+---
 
+## 🐍 Snake animation
 
-
-
-
-###
+<div align="center">
+  <img src="https://github.com/GUSTAVOUSERNAME/GUSTAVOUSERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
