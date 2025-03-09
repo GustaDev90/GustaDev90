@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gustavo and I'm a Software Developer</p>
+<h1 align="left">Software Engineer</h1>
 
 ###
 
