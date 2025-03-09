@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Software Engineer</h1>
+<h1 align="left">☕ Software Engineer</h1>
 
 ###
 
