@@ -2,13 +2,13 @@
 
 ###
 
-<h1 align="left">☕ Software Engineer</h1>
+<h1 align="left">☕UI | UX Designer</h1>
 
 ###
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">But i'm know how to code. 😎</h2>
 
 ###
 
