@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I have experience in</h2>
+<h2 align="left">Languages</h2>
 
 ###
 
