@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">☕ Mobile Developer</h1>
+<h1 align="left">☕ Software Developer</h1>
 
 ###
 
