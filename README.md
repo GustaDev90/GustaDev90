@@ -2,10 +2,6 @@
 
 ###
 
-<h1 align="left">☕ Software Developer</h1>
-
-###
-
 <h2 align="left">💻 I code with</h2>
 
 ###
