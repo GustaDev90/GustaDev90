@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">💻 I code with</h2>
+<h2 align="left">💻 Front-end Developer - i code with</h2>
 
 ###
 
