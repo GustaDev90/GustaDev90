@@ -2,7 +2,7 @@
 
 ###
 
-<h2>i code with</h2>
+<h2>Languages and Tools</h2>
 
 ###
 
@@ -34,7 +34,16 @@
   <!-- Logo do TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
   <img width="12" />
+
+  <!-- Logo do Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img width="12" />
+
+  <!-- Logo do Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
 </div>
+
 
 
 
