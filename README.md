@@ -2,8 +2,6 @@
 
 ###
 
-<h2 align="left">💻 I'm Front-end Developer</h2>
-
 <h2>i code with</h2>
 
 ###
