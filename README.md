@@ -34,7 +34,12 @@
    <!-- Logo do Next.js -->
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
    <img width="12" />
+
+   <!-- Logo do Prisma -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma logo" />
+   <img width="12" />
 </div>
+
 
  
  ###
